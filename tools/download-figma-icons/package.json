@@ -1,0 +1,24 @@
+{
+  "name": "@neoskop/enercity-icon-figma-downloader",
+  "version": "0.0.2",
+  "description": "",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "optimize-svg-icons": "svgo -r -f ${ICONS_DIR:-icons} --config=svgo.config.js",
+    "test": "jest"
+  },
+  "author": "Neoskop GmbH",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "27.0.2",
+    "@types/node": "16.11.6",
+    "dotenv": "10.0.0",
+    "got": "11.8.5",
+    "jest": "27.3.1",
+    "p-map": "4.0.0",
+    "prettier": "2.8.4",
+    "svgo": "2.8.0",
+    "ts-node": "10.4.0",
+    "typescript": "4.4.4"
+  }
+}

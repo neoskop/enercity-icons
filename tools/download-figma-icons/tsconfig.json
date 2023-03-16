@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": ["ESNext"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "preserveConstEnums": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "noEmit": true,
+    "strict": true,
+    "target": "ESNext",
+    "types": ["node", "jest"],
+    "rootDir": "src",
+    "outDir": "lib"
+  },
+  "include": ["src"]
+}
