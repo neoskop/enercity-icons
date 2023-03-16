@@ -11,62 +11,6 @@
     {
       "title": "## 🧪 Tests",
       "labels": ["test"]
-    },
-    {
-      "title": "## 🧪 Tests and some 🪄 Magic",
-      "labels": ["test", "magic"],
-      "exclude_labels": ["no-magic"],
-      "exhaustive": true,
-      "empty_content": "- no matching PRs",
-      "rules": [
-        {
-          "pattern": "open",
-          "on_property": "status",
-          "flags": "gu"
-        }
-      ]
     }
-  ],
-  "ignore_labels": ["wontfix"],
-  "sort": {
-    "order": "ASC",
-    "on_property": "mergedAt"
-  },
-  "template": "${{CHANGELOG}}\n\n<details>\n<summary>Uncategorized</summary>\n\n${{UNCATEGORIZED}}\n</details>",
-  "pr_template": "- ${{TITLE}}\n   - PR: #${{NUMBER}}",
-  "empty_template": "- no changes",
-  "label_extractor": [
-    {
-      "pattern": "(.) (.+)",
-      "target": "$1",
-      "flags": "gu"
-    },
-    {
-      "pattern": "\\[Issue\\]",
-      "on_property": "title",
-      "method": "match"
-    }
-  ],
-  "duplicate_filter": {
-    "pattern": "\\[ENC-....\\]",
-    "on_property": "title",
-    "method": "match"
-  },
-  "transformers": [
-    {
-      "pattern": "[\\-\\*] (\\[(...|TEST|CI|SKIP)\\])( )?(.+?)\n(.+?[\\-\\*] )(.+)",
-      "target": "- $4\n  - $6"
-    }
-  ],
-  "trim_values": false,
-  "max_tags_to_fetch": 200,
-  "max_pull_requests": 200,
-  "max_back_track_time_days": 365,
-  "tag_resolver": {
-    "method": "semver",
-    "filter": {
-      "pattern": "api-(.+)",
-      "flags": "gu"
-    }
-  }
+  ]
 }
