@@ -1,0 +1,1153 @@
+[
+  { "label": "", "value": null, "iconSrc": "" },
+  {
+    "label": "account",
+    "value": "account",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/account.svg"
+  },
+  {
+    "label": "alarm-sensor",
+    "value": "alarm-sensor",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/alarm-sensor.svg"
+  },
+  {
+    "label": "annual-report",
+    "value": "annual-report",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/annual-report.svg"
+  },
+  {
+    "label": "apartment-building-alternative",
+    "value": "apartment-building-alternative",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/apartment-building-alternative.svg"
+  },
+  {
+    "label": "apartment-building",
+    "value": "apartment-building",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/apartment-building.svg"
+  },
+  {
+    "label": "augmented-reality",
+    "value": "augmented-reality",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/augmented-reality.svg"
+  },
+  {
+    "label": "battery-active",
+    "value": "battery-active",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/battery-active.svg"
+  },
+  {
+    "label": "battery-inactive",
+    "value": "battery-inactive",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/battery-inactive.svg"
+  },
+  {
+    "label": "battery-lifetime",
+    "value": "battery-lifetime",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/battery-lifetime.svg"
+  },
+  {
+    "label": "battery",
+    "value": "battery",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/battery.svg"
+  },
+  {
+    "label": "bell",
+    "value": "bell",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/bell.svg"
+  },
+  {
+    "label": "binoculars",
+    "value": "binoculars",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/binoculars.svg"
+  },
+  {
+    "label": "browser-settings",
+    "value": "browser-settings",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/browser-settings.svg"
+  },
+  {
+    "label": "build",
+    "value": "build",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/build.svg"
+  },
+  {
+    "label": "business-building",
+    "value": "business-building",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/business-building.svg"
+  },
+  {
+    "label": "calculator",
+    "value": "calculator",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/calculator.svg"
+  },
+  {
+    "label": "calendar",
+    "value": "calendar",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/calendar.svg"
+  },
+  {
+    "label": "campfire",
+    "value": "campfire",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/campfire.svg"
+  },
+  {
+    "label": "candle",
+    "value": "candle",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/candle.svg"
+  },
+  {
+    "label": "care",
+    "value": "care",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/care.svg"
+  },
+  {
+    "label": "carreer",
+    "value": "carreer",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/carreer.svg"
+  },
+  {
+    "label": "cash",
+    "value": "cash",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/cash.svg"
+  },
+  {
+    "label": "charging-station",
+    "value": "charging-station",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/charging-station.svg"
+  },
+  {
+    "label": "checklist",
+    "value": "checklist",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/checklist.svg"
+  },
+  {
+    "label": "child",
+    "value": "child",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/child.svg"
+  },
+  {
+    "label": "city",
+    "value": "city",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/city.svg"
+  },
+  {
+    "label": "clock",
+    "value": "clock",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/clock.svg"
+  },
+  {
+    "label": "cloud-disconnect",
+    "value": "cloud-disconnect",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/cloud-disconnect.svg"
+  },
+  {
+    "label": "cloud",
+    "value": "cloud",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/cloud.svg"
+  },
+  {
+    "label": "co2-footprint",
+    "value": "co2-footprint",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/co2-footprint.svg"
+  },
+  {
+    "label": "coin-50",
+    "value": "coin-50",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/coin-50.svg"
+  },
+  {
+    "label": "coin",
+    "value": "coin",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/coin.svg"
+  },
+  {
+    "label": "cold-water",
+    "value": "cold-water",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/cold-water.svg"
+  },
+  {
+    "label": "cold",
+    "value": "cold",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/cold.svg"
+  },
+  {
+    "label": "company",
+    "value": "company",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/company.svg"
+  },
+  {
+    "label": "compass",
+    "value": "compass",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/compass.svg"
+  },
+  {
+    "label": "connection",
+    "value": "connection",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/connection.svg"
+  },
+  {
+    "label": "connector-ccs",
+    "value": "connector-ccs",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/connector-ccs.svg"
+  },
+  {
+    "label": "connector-chademo",
+    "value": "connector-chademo",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/connector-chademo.svg"
+  },
+  {
+    "label": "connector-type1",
+    "value": "connector-type1",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/connector-type1.svg"
+  },
+  {
+    "label": "connector-type2",
+    "value": "connector-type2",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/connector-type2.svg"
+  },
+  {
+    "label": "construction",
+    "value": "construction",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/construction.svg"
+  },
+  {
+    "label": "contact-person",
+    "value": "contact-person",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/contact-person.svg"
+  },
+  {
+    "label": "contract-amendents",
+    "value": "contract-amendents",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/contract-amendents.svg"
+  },
+  {
+    "label": "contracting",
+    "value": "contracting",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/contracting.svg"
+  },
+  {
+    "label": "coupon",
+    "value": "coupon",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/coupon.svg"
+  },
+  {
+    "label": "craftsman",
+    "value": "craftsman",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/craftsman.svg"
+  },
+  {
+    "label": "danger-electricity",
+    "value": "danger-electricity",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/danger-electricity.svg"
+  },
+  {
+    "label": "deadline",
+    "value": "deadline",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/deadline.svg"
+  },
+  {
+    "label": "detached-house-alternative",
+    "value": "detached-house-alternative",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/detached-house-alternative.svg"
+  },
+  {
+    "label": "detached-house",
+    "value": "detached-house",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/detached-house.svg"
+  },
+  {
+    "label": "diamond",
+    "value": "diamond",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/diamond.svg"
+  },
+  {
+    "label": "distance",
+    "value": "distance",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/distance.svg"
+  },
+  {
+    "label": "doctor",
+    "value": "doctor",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/doctor.svg"
+  },
+  {
+    "label": "e-bike",
+    "value": "e-bike",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/e-bike.svg"
+  },
+  {
+    "label": "e-scooter",
+    "value": "e-scooter",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/e-scooter.svg"
+  },
+  {
+    "label": "efficiency",
+    "value": "efficiency",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/efficiency.svg"
+  },
+  {
+    "label": "electric-meter",
+    "value": "electric-meter",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/electric-meter.svg"
+  },
+  {
+    "label": "electric-tower",
+    "value": "electric-tower",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/electric-tower.svg"
+  },
+  {
+    "label": "emob-cable-smooth",
+    "value": "emob-cable-smooth",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/emob-cable-smooth.svg"
+  },
+  {
+    "label": "emob-cable-spiral",
+    "value": "emob-cable-spiral",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/emob-cable-spiral.svg"
+  },
+  {
+    "label": "emob-stand",
+    "value": "emob-stand",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/emob-stand.svg"
+  },
+  {
+    "label": "emob-wall",
+    "value": "emob-wall",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/emob-wall.svg"
+  },
+  {
+    "label": "emobility",
+    "value": "emobility",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/emobility.svg"
+  },
+  {
+    "label": "enercity-e",
+    "value": "enercity-e",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/enercity-e.svg"
+  },
+  {
+    "label": "enercity-portal",
+    "value": "enercity-portal",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/enercity-portal.svg"
+  },
+  {
+    "label": "energy-fire",
+    "value": "energy-fire",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/energy-fire.svg"
+  },
+  {
+    "label": "energy-gas-circle",
+    "value": "energy-gas-circle",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/energy-gas-circle.svg"
+  },
+  {
+    "label": "energy-plug",
+    "value": "energy-plug",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/energy-plug.svg"
+  },
+  {
+    "label": "engine",
+    "value": "engine",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/engine.svg"
+  },
+  {
+    "label": "error",
+    "value": "error",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/error.svg"
+  },
+  {
+    "label": "euro-symbol",
+    "value": "euro-symbol",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/euro-symbol.svg"
+  },
+  {
+    "label": "euro",
+    "value": "euro",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/euro.svg"
+  },
+  {
+    "label": "existing-customer",
+    "value": "existing-customer",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/existing-customer.svg"
+  },
+  {
+    "label": "eye-closed",
+    "value": "eye-closed",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/eye-closed.svg"
+  },
+  {
+    "label": "eye",
+    "value": "eye",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/eye.svg"
+  },
+  {
+    "label": "facebook",
+    "value": "facebook",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/facebook.svg"
+  },
+  {
+    "label": "family-house",
+    "value": "family-house",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/family-house.svg"
+  },
+  {
+    "label": "family",
+    "value": "family",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/family.svg"
+  },
+  {
+    "label": "fan",
+    "value": "fan",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/fan.svg"
+  },
+  {
+    "label": "faq",
+    "value": "faq",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/faq.svg"
+  },
+  {
+    "label": "fax",
+    "value": "fax",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/fax.svg"
+  },
+  {
+    "label": "file",
+    "value": "file",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/file.svg"
+  },
+  {
+    "label": "filter",
+    "value": "filter",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/filter.svg"
+  },
+  {
+    "label": "food-2",
+    "value": "food-2",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/food-2.svg"
+  },
+  {
+    "label": "food-3",
+    "value": "food-3",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/food-3.svg"
+  },
+  {
+    "label": "food",
+    "value": "food",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/food.svg"
+  },
+  {
+    "label": "football",
+    "value": "football",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/football.svg"
+  },
+  {
+    "label": "fruit",
+    "value": "fruit",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/fruit.svg"
+  },
+  {
+    "label": "full-service",
+    "value": "full-service",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/full-service.svg"
+  },
+  {
+    "label": "gas-meter",
+    "value": "gas-meter",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/gas-meter.svg"
+  },
+  {
+    "label": "gas-plant",
+    "value": "gas-plant",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/gas-plant.svg"
+  },
+  {
+    "label": "gas-storage",
+    "value": "gas-storage",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/gas-storage.svg"
+  },
+  {
+    "label": "gateway",
+    "value": "gateway",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/gateway.svg"
+  },
+  {
+    "label": "gear",
+    "value": "gear",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/gear.svg"
+  },
+  {
+    "label": "glass-fiber",
+    "value": "glass-fiber",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/glass-fiber.svg"
+  },
+  {
+    "label": "globus",
+    "value": "globus",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/globus.svg"
+  },
+  {
+    "label": "gold-shiny",
+    "value": "gold-shiny",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/gold-shiny.svg"
+  },
+  {
+    "label": "handshake",
+    "value": "handshake",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/handshake.svg"
+  },
+  {
+    "label": "hanover-region",
+    "value": "hanover-region",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/hanover-region.svg"
+  },
+  {
+    "label": "headset",
+    "value": "headset",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/headset.svg"
+  },
+  {
+    "label": "healthy",
+    "value": "healthy",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/healthy.svg"
+  },
+  {
+    "label": "heart",
+    "value": "heart",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/heart.svg"
+  },
+  {
+    "label": "heat-pipes",
+    "value": "heat-pipes",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/heat-pipes.svg"
+  },
+  {
+    "label": "heat-station",
+    "value": "heat-station",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/heat-station.svg"
+  },
+  {
+    "label": "heat",
+    "value": "heat",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/heat.svg"
+  },
+  {
+    "label": "heater",
+    "value": "heater",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/heater.svg"
+  },
+  {
+    "label": "help",
+    "value": "help",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/help.svg"
+  },
+  {
+    "label": "high5",
+    "value": "high5",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/high5.svg"
+  },
+  {
+    "label": "home",
+    "value": "home",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/home.svg"
+  },
+  {
+    "label": "hourglass",
+    "value": "hourglass",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/hourglass.svg"
+  },
+  {
+    "label": "house-connection",
+    "value": "house-connection",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/house-connection.svg"
+  },
+  {
+    "label": "industry",
+    "value": "industry",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/industry.svg"
+  },
+  {
+    "label": "information",
+    "value": "information",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/information.svg"
+  },
+  {
+    "label": "infothek",
+    "value": "infothek",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/infothek.svg"
+  },
+  {
+    "label": "item-list",
+    "value": "item-list",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/item-list.svg"
+  },
+  {
+    "label": "keys",
+    "value": "keys",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/keys.svg"
+  },
+  {
+    "label": "lab",
+    "value": "lab",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/lab.svg"
+  },
+  {
+    "label": "landlord",
+    "value": "landlord",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/landlord.svg"
+  },
+  {
+    "label": "law",
+    "value": "law",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/law.svg"
+  },
+  {
+    "label": "life",
+    "value": "life",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/life.svg"
+  },
+  {
+    "label": "light-bulb",
+    "value": "light-bulb",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/light-bulb.svg"
+  },
+  {
+    "label": "lightning",
+    "value": "lightning",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/lightning.svg"
+  },
+  {
+    "label": "lock",
+    "value": "lock",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/lock.svg"
+  },
+  {
+    "label": "magnifier-and-euro",
+    "value": "magnifier-and-euro",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/magnifier-and-euro.svg"
+  },
+  {
+    "label": "mail",
+    "value": "mail",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/mail.svg"
+  },
+  {
+    "label": "map",
+    "value": "map",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/map.svg"
+  },
+  {
+    "label": "megaphone",
+    "value": "megaphone",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/megaphone.svg"
+  },
+  {
+    "label": "meravis",
+    "value": "meravis",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/meravis.svg"
+  },
+  {
+    "label": "money-bag-100",
+    "value": "money-bag-100",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/money-bag-100.svg"
+  },
+  {
+    "label": "money-bag",
+    "value": "money-bag",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/money-bag.svg"
+  },
+  {
+    "label": "monkey-blind",
+    "value": "monkey-blind",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/monkey-blind.svg"
+  },
+  {
+    "label": "motion-detector",
+    "value": "motion-detector",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/motion-detector.svg"
+  },
+  {
+    "label": "moving-truck",
+    "value": "moving-truck",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/moving-truck.svg"
+  },
+  {
+    "label": "multi-lightning",
+    "value": "multi-lightning",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/multi-lightning.svg"
+  },
+  {
+    "label": "new-customer",
+    "value": "new-customer",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/new-customer.svg"
+  },
+  {
+    "label": "oeko",
+    "value": "oeko",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/oeko.svg"
+  },
+  {
+    "label": "oil-heating",
+    "value": "oil-heating",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/oil-heating.svg"
+  },
+  {
+    "label": "open-hand",
+    "value": "open-hand",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/open-hand.svg"
+  },
+  {
+    "label": "overview",
+    "value": "overview",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/overview.svg"
+  },
+  {
+    "label": "package",
+    "value": "package",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/package.svg"
+  },
+  {
+    "label": "paperless-alternative",
+    "value": "paperless-alternative",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/paperless-alternative.svg"
+  },
+  {
+    "label": "paperless",
+    "value": "paperless",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/paperless.svg"
+  },
+  {
+    "label": "paperplane",
+    "value": "paperplane",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/paperplane.svg"
+  },
+  {
+    "label": "parking",
+    "value": "parking",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/parking.svg"
+  },
+  {
+    "label": "pen",
+    "value": "pen",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/pen.svg"
+  },
+  {
+    "label": "person-folder",
+    "value": "person-folder",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/person-folder.svg"
+  },
+  {
+    "label": "person",
+    "value": "person",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/person.svg"
+  },
+  {
+    "label": "phone",
+    "value": "phone",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/phone.svg"
+  },
+  {
+    "label": "piggy-coin",
+    "value": "piggy-coin",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/piggy-coin.svg"
+  },
+  {
+    "label": "pin",
+    "value": "pin",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/pin.svg"
+  },
+  {
+    "label": "plant-leaf",
+    "value": "plant-leaf",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/plant-leaf.svg"
+  },
+  {
+    "label": "play",
+    "value": "play",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/play.svg"
+  },
+  {
+    "label": "power-plug",
+    "value": "power-plug",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/power-plug.svg"
+  },
+  {
+    "label": "present",
+    "value": "present",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/present.svg"
+  },
+  {
+    "label": "press",
+    "value": "press",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/press.svg"
+  },
+  {
+    "label": "price-guarantee",
+    "value": "price-guarantee",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/price-guarantee.svg"
+  },
+  {
+    "label": "price-tag",
+    "value": "price-tag",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/price-tag.svg"
+  },
+  {
+    "label": "printer",
+    "value": "printer",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/printer.svg"
+  },
+  {
+    "label": "profit",
+    "value": "profit",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/profit.svg"
+  },
+  {
+    "label": "regenerative-energy",
+    "value": "regenerative-energy",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/regenerative-energy.svg"
+  },
+  {
+    "label": "remote-control",
+    "value": "remote-control",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/remote-control.svg"
+  },
+  {
+    "label": "remote",
+    "value": "remote",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/remote.svg"
+  },
+  {
+    "label": "renewable-energy",
+    "value": "renewable-energy",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/renewable-energy.svg"
+  },
+  {
+    "label": "reset",
+    "value": "reset",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/reset.svg"
+  },
+  {
+    "label": "rfid-card",
+    "value": "rfid-card",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/rfid-card.svg"
+  },
+  {
+    "label": "rocket",
+    "value": "rocket",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/rocket.svg"
+  },
+  {
+    "label": "rss-feed",
+    "value": "rss-feed",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/rss-feed.svg"
+  },
+  {
+    "label": "s-pedelec",
+    "value": "s-pedelec",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/s-pedelec.svg"
+  },
+  {
+    "label": "safe-loading",
+    "value": "safe-loading",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/safe-loading.svg"
+  },
+  {
+    "label": "sailboat",
+    "value": "sailboat",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/sailboat.svg"
+  },
+  {
+    "label": "search",
+    "value": "search",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/search.svg"
+  },
+  {
+    "label": "security-camera",
+    "value": "security-camera",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/security-camera.svg"
+  },
+  {
+    "label": "security",
+    "value": "security",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/security.svg"
+  },
+  {
+    "label": "semi-detached-house-alternative",
+    "value": "semi-detached-house-alternative",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/semi-detached-house-alternative.svg"
+  },
+  {
+    "label": "semi-detached-house",
+    "value": "semi-detached-house",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/semi-detached-house.svg"
+  },
+  {
+    "label": "sharing-charging-station",
+    "value": "sharing-charging-station",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/sharing-charging-station.svg"
+  },
+  {
+    "label": "shopping-cart",
+    "value": "shopping-cart",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/shopping-cart.svg"
+  },
+  {
+    "label": "shovel",
+    "value": "shovel",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/shovel.svg"
+  },
+  {
+    "label": "show-up",
+    "value": "show-up",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/show-up.svg"
+  },
+  {
+    "label": "slider",
+    "value": "slider",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/slider.svg"
+  },
+  {
+    "label": "smart-heater",
+    "value": "smart-heater",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/smart-heater.svg"
+  },
+  {
+    "label": "smart-lightning",
+    "value": "smart-lightning",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/smart-lightning.svg"
+  },
+  {
+    "label": "smarthome",
+    "value": "smarthome",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/smarthome.svg"
+  },
+  {
+    "label": "smartphone-with-touch",
+    "value": "smartphone-with-touch",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/smartphone-with-touch.svg"
+  },
+  {
+    "label": "smartphone",
+    "value": "smartphone",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/smartphone.svg"
+  },
+  {
+    "label": "smiley",
+    "value": "smiley",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/smiley.svg"
+  },
+  {
+    "label": "smoke-detector",
+    "value": "smoke-detector",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/smoke-detector.svg"
+  },
+  {
+    "label": "snowflake",
+    "value": "snowflake",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/snowflake.svg"
+  },
+  {
+    "label": "socket",
+    "value": "socket",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/socket.svg"
+  },
+  {
+    "label": "solar-panel-stand",
+    "value": "solar-panel-stand",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/solar-panel-stand.svg"
+  },
+  {
+    "label": "solar-panel",
+    "value": "solar-panel",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/solar-panel.svg"
+  },
+  {
+    "label": "solar-plant",
+    "value": "solar-plant",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/solar-plant.svg"
+  },
+  {
+    "label": "solar",
+    "value": "solar",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/solar.svg"
+  },
+  {
+    "label": "speechbubble",
+    "value": "speechbubble",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/speechbubble.svg"
+  },
+  {
+    "label": "stopwatch",
+    "value": "stopwatch",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/stopwatch.svg"
+  },
+  {
+    "label": "street-light",
+    "value": "street-light",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/street-light.svg"
+  },
+  {
+    "label": "sun-moon",
+    "value": "sun-moon",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/sun-moon.svg"
+  },
+  {
+    "label": "sun",
+    "value": "sun",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/sun.svg"
+  },
+  {
+    "label": "surface",
+    "value": "surface",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/surface.svg"
+  },
+  {
+    "label": "tag-electricity",
+    "value": "tag-electricity",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/tag-electricity.svg"
+  },
+  {
+    "label": "teddy",
+    "value": "teddy",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/teddy.svg"
+  },
+  {
+    "label": "tenant",
+    "value": "tenant",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/tenant.svg"
+  },
+  {
+    "label": "thumbs-down",
+    "value": "thumbs-down",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/thumbs-down.svg"
+  },
+  {
+    "label": "thumbs-up",
+    "value": "thumbs-up",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/thumbs-up.svg"
+  },
+  {
+    "label": "tick-shape",
+    "value": "tick-shape",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/tick-shape.svg"
+  },
+  {
+    "label": "time",
+    "value": "time",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/time.svg"
+  },
+  {
+    "label": "tipi",
+    "value": "tipi",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/tipi.svg"
+  },
+  {
+    "label": "together",
+    "value": "together",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/together.svg"
+  },
+  {
+    "label": "tools",
+    "value": "tools",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/tools.svg"
+  },
+  {
+    "label": "toy",
+    "value": "toy",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/toy.svg"
+  },
+  {
+    "label": "training",
+    "value": "training",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/training.svg"
+  },
+  {
+    "label": "trash",
+    "value": "trash",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/trash.svg"
+  },
+  {
+    "label": "tree-trunk",
+    "value": "tree-trunk",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/tree-trunk.svg"
+  },
+  {
+    "label": "twitter",
+    "value": "twitter",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/twitter.svg"
+  },
+  {
+    "label": "umbrella",
+    "value": "umbrella",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/umbrella.svg"
+  },
+  {
+    "label": "upload",
+    "value": "upload",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/upload.svg"
+  },
+  {
+    "label": "vacation",
+    "value": "vacation",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/vacation.svg"
+  },
+  {
+    "label": "virus",
+    "value": "virus",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/virus.svg"
+  },
+  {
+    "label": "wallbe-pro",
+    "value": "wallbe-pro",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/wallbe-pro.svg"
+  },
+  {
+    "label": "warm-water",
+    "value": "warm-water",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/warm-water.svg"
+  },
+  {
+    "label": "water-detector",
+    "value": "water-detector",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/water-detector.svg"
+  },
+  {
+    "label": "water-drops",
+    "value": "water-drops",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/water-drops.svg"
+  },
+  {
+    "label": "water-tap",
+    "value": "water-tap",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/water-tap.svg"
+  },
+  {
+    "label": "wave",
+    "value": "wave",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/wave.svg"
+  },
+  {
+    "label": "waves",
+    "value": "waves",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/waves.svg"
+  },
+  {
+    "label": "wind-power",
+    "value": "wind-power",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/wind-power.svg"
+  },
+  {
+    "label": "window-alarm",
+    "value": "window-alarm",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/window-alarm.svg"
+  },
+  {
+    "label": "work-life-balance",
+    "value": "work-life-balance",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/work-life-balance.svg"
+  },
+  {
+    "label": "worldwide",
+    "value": "worldwide",
+    "iconSrc": "https://assets.enercity.de/icons/outlined-medium/worldwide.svg"
+  }
+]

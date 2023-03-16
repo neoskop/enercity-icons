@@ -1,0 +1,66 @@
+{
+  "name": "@neoskop/enercity-icons",
+  "version": "0.0.0",
+  "description": "Package for enercity Icons",
+  "main": "./lib/index.js",
+  "module": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run prettier",
+    "create-icons": "npm run create-icons:action && npm run create-icons:outlined-large && npm run create-icons:outlined-medium && npm run create-icons:solid && npm run prettier",
+    "create-icons:action": "npx @svgr/cli --typescript --out-dir ./src/action  ./svgs/action",
+    "create-icons:outlined-large": "npx @svgr/cli --typescript --out-dir ./src/outlined-large  ./svgs/outlined-large",
+    "create-icons:outlined-medium": "npx @svgr/cli --typescript --out-dir ./src/outlined-medium  ./svgs/outlined-medium",
+    "create-icons:solid": "npx @svgr/cli --typescript --out-dir ./src/solid  ./svgs/solid",
+    "prettier": "prettier --write \"./src/**/*.{ts,tsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoskop/enercity-icons.git"
+  },
+  "author": "Neoskop Gmbh <devs@neoskop.de>",
+  "contributors": [
+    "Noel Bank <bank@neoskop.de>"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/neoskop/enercity-icons/issues"
+  },
+  "homepage": "https://github.com/neoskop/enercity-icons#readme",
+  "devDependencies": {
+    "@svgr/cli": "6.5.1",
+    "@types/react": "18.0.28",
+    "prettier": "2.8.4",
+    "typescript": "4.9.5"
+  },
+  "dependencies": {
+    "react": "18.2.0"
+  },
+  "files": [
+    "lib/**/*",
+    "action/*",
+    "outlined-large/*",
+    "outlined-medium/*",
+    "solid"
+  ],
+  "exports": {
+    "./action": {
+      "types": "./lib/action/index.d.ts",
+      "default": "./lib/action/index.js"
+    },
+    "./outlined-large": {
+      "types": "./lib/outlined-large/index.d.ts",
+      "default": "./lib/outlined-large/index.js"
+    },
+    "./outlined-medium": {
+      "types": "./lib/outlined-medium/index.d.ts",
+      "default": "./lib/outlined-medium/index.js"
+    },
+    "./solid": {
+      "types": "./lib/solid/index.d.ts",
+      "default": "./lib/solid/index.js"
+    },
+    "./package.json": "./package.json"
+  }
+}
