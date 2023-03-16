@@ -27,6 +27,15 @@ async function __initialize() {
         'Size=x24': 'action',
       },
     });
+
+    await downloadIcons({
+      name: 'mobile-nav',
+      iconsDir,
+      figmaFrameId: '2513:10046',
+      figmaIconNameToDirMap: {
+        'Size=x24': 'action',
+      },
+    });
   } catch (error) {
     console.error(error);
     process.exit(1);

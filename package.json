@@ -8,10 +8,10 @@
   "scripts": {
     "build": "tsc",
     "create-icons": "npm run create-icons:action && npm run create-icons:outlined-large && npm run create-icons:outlined-medium && npm run create-icons:solid && npm run prettier",
-    "create-icons:action": "npx @svgr/cli --typescript --out-dir ./src/action  ./data/action",
-    "create-icons:outlined-large": "npx @svgr/cli --typescript --out-dir ./src/outlined-large  ./data/outlined-large",
-    "create-icons:outlined-medium": "npx @svgr/cli --typescript --out-dir ./src/outlined-medium  ./data/outlined-medium",
-    "create-icons:solid": "npx @svgr/cli --typescript --out-dir ./src/solid  ./data/solid",
+    "create-icons:action": "npx @svgr/cli --typescript --out-dir ./src/action  ./tools/download-figma-icons/icons/action",
+    "create-icons:outlined-large": "npx @svgr/cli --typescript --out-dir ./src/outlined-large  ./tools/download-figma-icons/icons/outlined-large",
+    "create-icons:outlined-medium": "npx @svgr/cli --typescript --out-dir ./src/outlined-medium  ./tools/download-figma-icons/icons/outlined-medium",
+    "create-icons:solid": "npx @svgr/cli --typescript --out-dir ./src/solid  ./tools/download-figma-icons/icons/solid",
     "download-figma-icons": "cd tools/download-figma-icons && npm run start",
     "prettier": "prettier --write \"./src/**/*.{ts,tsx}\""
   },

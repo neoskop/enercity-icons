@@ -4,6 +4,7 @@ const SvgRocket = (props: SVGProps<SVGSVGElement>) => (
   <svg
     width={65}
     height={65}
+    viewBox="0 0 65 65"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
