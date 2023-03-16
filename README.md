@@ -24,3 +24,12 @@ or
 
 
 Afterwards you can push this and Crate under the Releases Tab a Release (Dont forget to write something in the Changelog)
+
+
+### Information ℹ️
+
+tbd;
+
+### Todo
+
+Maybe change Cache to Download only the newest icons old icons wont be updated? 

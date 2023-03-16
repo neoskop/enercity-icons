@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 - Added Figma downloader to get the freshest icons
+- Removed svg files from repo
 
 ## 3.0.0 - 2023-03-16
 ### Added
