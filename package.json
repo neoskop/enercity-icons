@@ -1,13 +1,12 @@
 {
   "name": "@neoskop/enercity-icons",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Package for enercity Icons",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "prepublishOnly": "npm run prettier",
     "create-icons": "npm run create-icons:action && npm run create-icons:outlined-large && npm run create-icons:outlined-medium && npm run create-icons:solid && npm run prettier",
     "create-icons:action": "npx @svgr/cli --typescript --out-dir ./src/action  ./svgs/action",
     "create-icons:outlined-large": "npx @svgr/cli --typescript --out-dir ./src/outlined-large  ./svgs/outlined-large",
