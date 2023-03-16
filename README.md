@@ -26,9 +26,13 @@ or
 Afterwards you can push this and Crate under the Releases Tab a Release
 
 
-### Information ℹ️
+### Features ℹ️
+
+Automated Changelog generation
 
 tbd...
+
+
 
 ### Todo
 
