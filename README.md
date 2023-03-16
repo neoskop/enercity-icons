@@ -23,7 +23,7 @@ or
 `Select *Download Figma Icons* Task in VSCode`
 
 
-Afterwards you can push this and Crate under the Releases Tab a Release (Dont forget to write something in the Changelog)
+Afterwards you can push this and Crate under the Releases Tab a Release
 
 
 ### Information ℹ️
