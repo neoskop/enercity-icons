@@ -65,6 +65,25 @@ jobs:
         env:
           RELEASE_TYPE: ${{ github.event.inputs.release-type }}
 
+      
+      # Update package.json version
+      - name: Update package.json version
+        run: |
+          npm version ${{ env.NEW_VERSION }} --no-git-tag-version
+          echo "NEW_VERSION=$(npm --no-git-tag-version version $RELEASE_TYPE)" >> $GITHUB_ENV
+          echo "RELEASE_TAG=latest" >> $GITHUB_ENV
+        env:
+          RELEASE_TYPE: ${{ github.event.inputs.release-type }}
+
+
+      # Commit changes
+      - name: Commit package.json changes and create tag
+        run: |
+          git add "package.json"
+          git commit -m "chore: release ${{ env.NEW_VERSION }}"
+          git tag ${{ env.NEW_VERSION }}
+
+
       # Publish version to public repository
       - name: Publish
         run: npm publish --verbose --access public --tag ${{ env.RELEASE_TAG }}
