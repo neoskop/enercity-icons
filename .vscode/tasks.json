@@ -1,0 +1,38 @@
+{"tasks": [
+    {
+      "detail": "npm run create-icons",
+      "label": "Create Icons",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "icon": {
+        "color": "terminal.ansiBlue",
+        "id": "rocket"
+      },
+      "isBackground": true,
+      "type": "npm",
+      "script": "create-icons",
+      "presentation": {
+        "panel": "dedicated",
+        "reveal": "never"
+      },
+      "problemMatcher": [],
+    },
+    {
+      "detail": "npm run download-figma-icons",
+      "label": "Download Figma Icons",
+      "group": "none",
+      "icon": {
+        "id": "file-add"
+      },
+      "type": "npm",
+      "script": "download-figma-icons",
+      "presentation": {
+        "panel": "shared",
+        "reveal": "always"
+      },
+      "problemMatcher": []
+    }
+  ]
+}
