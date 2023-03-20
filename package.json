@@ -2,9 +2,9 @@
   "name": "@neoskop/enercity-icons",
   "version": "5.0.0",
   "description": "Package for enercity Icons",
-  "main": "./lib/index.js",
-  "module": "./lib/index.js",
-  "types": "./lib/index.d.ts",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.d.ts",
   "scripts": {
     "build": "tsc",
     "create-icons": "npm run create-icons:action && npm run create-icons:outlined-large && npm run create-icons:outlined-medium && npm run create-icons:solid && npm run prettier",
@@ -46,20 +46,20 @@
   ],
   "exports": {
     "./action": {
-      "types": "./lib/action/index.d.ts",
-      "default": "./lib/action/index.js"
+      "types": "./action/index.d.ts",
+      "default": "./action/index.js"
     },
     "./outlined-large": {
-      "types": "./lib/outlined-large/index.d.ts",
-      "default": "./lib/outlined-large/index.js"
+      "types": "./outlined-large/index.d.ts",
+      "default": "./outlined-large/index.js"
     },
     "./outlined-medium": {
-      "types": "./lib/outlined-medium/index.d.ts",
-      "default": "./lib/outlined-medium/index.js"
+      "types": "./outlined-medium/index.d.ts",
+      "default": "./outlined-medium/index.js"
     },
     "./solid": {
-      "types": "./lib/solid/index.d.ts",
-      "default": "./lib/solid/index.js"
+      "types": "./solid/index.d.ts",
+      "default": "./solid/index.js"
     },
     "./package.json": "./package.json"
   }
