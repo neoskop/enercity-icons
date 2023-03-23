@@ -1,8 +1,8 @@
 node_modules
 lib
-action
-outlined-medium
-outlined-large
-solid
+/action
+/outlined-medium
+/outlined-large
+/solid
 index.js
 index.d.ts
