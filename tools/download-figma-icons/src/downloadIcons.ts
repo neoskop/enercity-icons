@@ -16,12 +16,26 @@ export async function downloadIcons({
   figmaFrameId,
   figmaIconNameToDirMap,
   iconsDir,
-  concurrency = 1,
+  concurrency = 5,
 }: DownloadIconsOptions) {
   console.log(`\n⏳ downloading '${name}' icons...`);
 
-  const componentSets = await fetchComponentSets(figmaFrameId);
+  /**
+   * Smart "hack" to get the "newest" component sets first.
+   */
+  const componentSets = (await fetchComponentSets(figmaFrameId)).reverse();
   const icons = await createIcons(componentSets, figmaIconNameToDirMap);
 
-  await pMap(icons, createIconDownloader(iconsDir), { concurrency });
+  try {
+    await pMap(icons, createIconDownloader(iconsDir), {
+      concurrency,
+      stopOnError: false,
+    });
+  } catch (error) {
+    if (error instanceof AggregateError) {
+      for (const individualError of error.errors) {
+        console.log(individualError);
+      }
+    }
+  }
 }
