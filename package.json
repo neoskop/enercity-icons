@@ -1,6 +1,6 @@
 {
   "name": "@neoskop/enercity-icons",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "description": "Package for enercity Icons",
   "main": "./index.js",
   "module": "./index.js",
