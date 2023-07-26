@@ -17,7 +17,7 @@ export async function fetchFromFigma<T>(
   options?: OptionsOfTextResponseBody
 ): Promise<T> {
   return await got(FIGMA_API_BASE_URL + figmaEndpoints[endpointVariant], {
-    timeout: 60 * 1000,
+    timeout: 60 * 60 * 1000,
     ...options,
     headers: {
       'X-Figma-Token': FIGMA_TOKEN,
