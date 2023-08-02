@@ -187,6 +187,7 @@ export { default as SemiDetachedHouseAlternative } from './SemiDetachedHouseAlte
 export { default as SemiDetachedHouse } from './SemiDetachedHouse';
 export { default as SharingChargingStation } from './SharingChargingStation';
 export { default as Shield } from './Shield';
+export { default as ShoppingBasket } from './ShoppingBasket';
 export { default as ShoppingCart } from './ShoppingCart';
 export { default as Shovel } from './Shovel';
 export { default as ShowUp } from './ShowUp';

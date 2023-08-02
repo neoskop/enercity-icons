@@ -101,6 +101,7 @@ export { default as SecurityCamera } from './SecurityCamera';
 export { default as Security } from './Security';
 export { default as SemiDetachedHouse } from './SemiDetachedHouse';
 export { default as Shield } from './Shield';
+export { default as ShoppingBasket } from './ShoppingBasket';
 export { default as ShoppingCart } from './ShoppingCart';
 export { default as ShowUp } from './ShowUp';
 export { default as Single } from './Single';

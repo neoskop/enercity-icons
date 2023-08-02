@@ -70,6 +70,7 @@ export { default as Rocket } from './Rocket';
 export { default as RssFeed } from './RssFeed';
 export { default as SecurityCamera } from './SecurityCamera';
 export { default as Security } from './Security';
+export { default as ShoppingBasket } from './ShoppingBasket';
 export { default as ShoppingCart } from './ShoppingCart';
 export { default as ShowUp } from './ShowUp';
 export { default as Smarthome } from './Smarthome';
