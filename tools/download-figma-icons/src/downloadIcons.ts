@@ -29,7 +29,7 @@ export async function downloadIcons({
   try {
     await pMap(icons, createIconDownloader(iconsDir), {
       concurrency,
-      stopOnError: false,
+      stopOnError: true,
     });
   } catch (error) {
     if (error instanceof AggregateError) {
