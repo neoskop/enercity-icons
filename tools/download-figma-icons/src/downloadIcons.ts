@@ -16,7 +16,7 @@ export async function downloadIcons({
   figmaFrameId,
   figmaIconNameToDirMap,
   iconsDir,
-  concurrency = 5,
+  concurrency = 1,
 }: DownloadIconsOptions) {
   console.log(`\n⏳ downloading '${name}' icons...`);
 
@@ -29,13 +29,15 @@ export async function downloadIcons({
   try {
     await pMap(icons, createIconDownloader(iconsDir), {
       concurrency,
-      stopOnError: true,
+      stopOnError: false,
     });
   } catch (error) {
     if (error instanceof AggregateError) {
       for (const individualError of error.errors) {
         console.log(individualError);
       }
+    } else {
+      console.log(error);
     }
   }
 }
