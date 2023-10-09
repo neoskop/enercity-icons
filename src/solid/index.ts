@@ -121,6 +121,7 @@ export { default as High5 } from './High5';
 export { default as Home } from './Home';
 export { default as Hourglass } from './Hourglass';
 export { default as HouseConnection } from './HouseConnection';
+export { default as Iban } from './Iban';
 export { default as Industry } from './Industry';
 export { default as Information } from './Information';
 export { default as Infothek } from './Infothek';
