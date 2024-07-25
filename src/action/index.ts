@@ -29,6 +29,7 @@ export { default as HeartFilled } from './HeartFilled';
 export { default as Heart } from './Heart';
 export { default as InfoCheckmark } from './InfoCheckmark';
 export { default as InfoI } from './InfoI';
+export { default as InfoPlus } from './InfoPlus';
 export { default as InfoX } from './InfoX';
 export { default as Infothek } from './Infothek';
 export { default as Instagram } from './Instagram';

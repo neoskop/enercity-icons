@@ -6,3 +6,4 @@ lib
 /solid
 index.js
 index.d.ts
+.env
