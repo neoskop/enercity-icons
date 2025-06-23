@@ -12,18 +12,18 @@ return <ArrowDown />
 
 ## How to add new Icons?
 
-> Attention! 🚨 U need do define .env file. The Data is in 1PW.
+> Attention! 🚨 You need to create an .env file. The secrets are in 1PW.
 
+1. Start downloading the latest icons from Figma.<br />
 ```shell
-npm run download-figma-icons 
+npm run download-figma-icons
 ```
-
-or
-
-`Select *Download Figma Icons* Task in VSCode`
-
-
-Afterwards you can push this and Crate under the Releases Tab a Release
+2. Then you need to convert the SVGs to React components using:
+```shell
+npm run create-icons
+```
+3. Create a Pull Request and merge the new icons into `main`.
+4. Start a new run of the `Release package` workflow in https://github.com/neoskop/enercity-icons/actions.
 
 
 ### Features ℹ️
@@ -36,4 +36,4 @@ tbd...
 
 ### Todo
 
-Maybe change Cache to Download only the newest icons old icons wont be updated? 
+Maybe change Cache to Download only the newest icons old icons wont be updated?

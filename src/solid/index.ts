@@ -1,3 +1,4 @@
+export { default as Accessability } from './Accessability';
 export { default as Account } from './Account';
 export { default as AlarmSensor } from './AlarmSensor';
 export { default as AnnualReport } from './AnnualReport';
