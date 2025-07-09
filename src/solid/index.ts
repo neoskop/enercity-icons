@@ -15,6 +15,7 @@ export { default as Binoculars } from './Binoculars';
 export { default as Book } from './Book';
 export { default as BrowserSettings } from './BrowserSettings';
 export { default as Build } from './Build';
+export { default as BuildingAnalysis } from './BuildingAnalysis';
 export { default as Bus } from './Bus';
 export { default as BusinessBuilding } from './BusinessBuilding';
 export { default as Calculator } from './Calculator';
