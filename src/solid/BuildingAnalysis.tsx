@@ -1,0 +1,18 @@
+import * as React from 'react';
+import { SVGProps } from 'react';
+const SvgBuildingAnalysis = (props: SVGProps<SVGSVGElement>) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={24}
+    height={24}
+    fill="none"
+    viewBox="0 0 24 24"
+    {...props}
+  >
+    <path
+      fill="currentColor"
+      d="M11.047.361a1.45 1.45 0 0 1 1.905-.008l3.044 2.715a.74.74 0 0 1 .744-.697h3.21c.412 0 .75.33.75.75v4.132l1.304 1.17c.315.27.495.667.495 1.087v13.035c0 .802-.652 1.454-1.447 1.455H2.947A1.455 1.455 0 0 1 1.5 22.545V9.51c0-.42.18-.817.495-1.095zm.21 9.367c-2.055 0-3.72 1.68-3.72 3.75s1.665 3.75 3.72 3.75a3.66 3.66 0 0 0 2.04-.623l2.625 2.655c.15.142.337.217.532.217a.747.747 0 0 0 .532-1.275l-2.631-2.662a3.73 3.73 0 0 0 .622-2.062c0-2.07-1.665-3.75-3.72-3.75m-.008 1.522a2.25 2.25 0 1 1 0 4.5 2.25 2.25 0 0 1 0-4.5"
+    />
+  </svg>
+);
+export default SvgBuildingAnalysis;
