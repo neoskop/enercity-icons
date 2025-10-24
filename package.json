@@ -12,7 +12,7 @@
     "create-icons:outlined-large": "npx @svgr/cli --typescript --out-dir ./src/outlined-large  ./tools/download-figma-icons/icons/outlined-large",
     "create-icons:outlined-medium": "npx @svgr/cli --typescript --out-dir ./src/outlined-medium  ./tools/download-figma-icons/icons/outlined-medium",
     "create-icons:solid": "npx @svgr/cli --typescript --out-dir ./src/solid  ./tools/download-figma-icons/icons/solid",
-    "download-figma-icons": "cd tools/download-figma-icons && npm run start",
+    "download-figma-icons": "cd tools/download-figma-icons && npm run start && npm run optimize-svg-icons",
     "prettier": "prettier --write \"./src/**/*.{ts,tsx}\""
   },
   "repository": {
