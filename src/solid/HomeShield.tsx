@@ -1,0 +1,22 @@
+import * as React from 'react';
+import { SVGProps } from 'react';
+const SvgHomeShield = (props: SVGProps<SVGSVGElement>) => (
+  <svg
+    width={24}
+    height={24}
+    viewBox="0 0 24 24"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+  >
+    <path
+      d="M11.5 1.5a1 1 0 0 1 .707.293l4.802 4.8a1.001 1.001 0 0 1-1.415 1.416l-4.095-4.095-6.65 6.65a1 1 0 0 1 .651.936v7a1 1 0 0 0 1 1h4a1 1 0 0 1 0 2h-4a3 3 0 0 1-3-3v-6h-1a1 1 0 0 1-.707-1.707l9-9 .073-.066A1 1 0 0 1 11.5 1.5Z"
+      fill="currentColor"
+    />
+    <path
+      d="M17 10c.274 0 .536.112.725.31.947.995 2.395 1.49 3.275 1.49a1 1 0 0 1 1 1c0 2.604-.777 4.609-1.758 5.981-.487.683-1.03 1.216-1.561 1.588-.5.35-1.098.631-1.681.631s-1.18-.28-1.68-.63c-.532-.373-1.075-.906-1.562-1.589C12.778 17.41 12 15.404 12 12.8a1 1 0 0 1 1-1c.88 0 2.329-.495 3.275-1.49l.075-.07A1 1 0 0 1 17 10Z"
+      fill="currentColor"
+    />
+  </svg>
+);
+export default SvgHomeShield;

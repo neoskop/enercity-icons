@@ -56,6 +56,7 @@ export { default as Search } from './Search';
 export { default as Share } from './Share';
 export { default as SolarPanel } from './SolarPanel';
 export { default as Sun } from './Sun';
+export { default as Tiktok } from './Tiktok';
 export { default as Twitter } from './Twitter';
 export { default as WallbePro } from './WallbePro';
 export { default as Whatsapp } from './Whatsapp';
