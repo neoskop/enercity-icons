@@ -103,6 +103,8 @@ export { default as Fan } from './Fan';
 export { default as Faq } from './Faq';
 export { default as Fax } from './Fax';
 export { default as Female } from './Female';
+export { default as FileAlert } from './FileAlert';
+export { default as FileX } from './FileX';
 export { default as File } from './File';
 export { default as Filter } from './Filter';
 export { default as Food2 } from './Food2';
